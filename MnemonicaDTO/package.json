@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mnemonica": "^0.9.94",
+    "typeomatica": "^0.2.5"
+  }
+}
